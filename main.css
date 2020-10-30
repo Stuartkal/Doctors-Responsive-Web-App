@@ -380,7 +380,7 @@ section {
 		width: 90%;
 	}
 }
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 411px) {
 	.navbar-inner ul {
 		width: 75%;
 	}
@@ -453,6 +453,7 @@ section {
 	.header {
 		font-size: 20px;
 		margin-bottom: 1rem;
+		margin-top: 1rem;
 	}
 	.doctor-card {
 		width: 40%;
