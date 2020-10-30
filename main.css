@@ -64,7 +64,7 @@ section {
 .navbar-inner ul li a {
 	font-weight: 100;
 	text-decoration: none;
-	color: #a6cffd;
+	color: #7cb8fd;
 	outline: none;
 }
 
@@ -339,7 +339,7 @@ section {
 	color: #fff;
 	font-weight: 100;
 }
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
 	.card {
 		width: 40%;
 	}
@@ -357,29 +357,7 @@ section {
 		align-items: baseline;
 		width: 90%;
 	}
-} */
-/* @media screen and (max-width: 768px) {
-	.banner-text {
-		margin-top: 10rem;
-	}
-	.card {
-		width: 45%;
-	}
-	.doctor-card {
-		height: 220px;
-		width: 35%;
-	}
-	.about {
-		height: 60vh;
-	}
-	.doctor-card img {
-		height: 150px;
-	}
-	.footer-inner {
-		align-items: baseline;
-		width: 90%;
-	}
-} */
+}
 @media screen and (max-width: 768px) {
 	.navbar-inner ul {
 		width: 75%;
@@ -426,7 +404,7 @@ section {
 	}
 	.about {
 		display: block;
-		height: 60vh;
+		height: 70vh;
 		margin-top: 5rem;
 	}
 	.about-text h3 {
@@ -483,7 +461,7 @@ section {
 		font-size: 14px;
 	}
 	.footer-links p {
-		font-size: 14px;
+		font-size: 12px;
 	}
 	.footer-text {
 		margin-left: 1rem;
