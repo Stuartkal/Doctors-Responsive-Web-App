@@ -339,7 +339,7 @@ section {
 	color: #fff;
 	font-weight: 100;
 }
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
 	.card {
 		width: 40%;
 	}
@@ -357,8 +357,8 @@ section {
 		align-items: baseline;
 		width: 90%;
 	}
-}
-@media screen and (max-width: 768px) {
+} */
+/* @media screen and (max-width: 768px) {
 	.banner-text {
 		margin-top: 10rem;
 	}
@@ -379,8 +379,8 @@ section {
 		align-items: baseline;
 		width: 90%;
 	}
-}
-@media screen and (max-width: 411px) {
+} */
+@media screen and (max-width: 768px) {
 	.navbar-inner ul {
 		width: 75%;
 	}
